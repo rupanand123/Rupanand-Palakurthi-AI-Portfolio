@@ -1,0 +1,6 @@
+{
+  "name": "Rupanand Palakurthi Portfolio",
+  "description": "A 2035 dark cosmic JARVIS-themed AI & Full Stack developer portfolio for Rupanand Palakurthi, featuring interactive model simulations, real-time Gemini chat, and a custom particle space background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
